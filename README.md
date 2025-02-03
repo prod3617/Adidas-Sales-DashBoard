@@ -37,7 +37,7 @@ Performed some exploratory data analysis to find some information about key ques
 - Which state comes in the top 10 sales?
 
 ### Data Analysis
-To find the answer to the key questions, I have written some query in the MySQL as
+To find the answer to the key questions, I have written some query in the PowerBI as
 ``` PowerBI
 Most Sold Product = 
 VAR RegionSales =
